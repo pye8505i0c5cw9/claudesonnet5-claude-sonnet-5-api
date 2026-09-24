@@ -1,0 +1,14 @@
+{
+  "repo": "claudesonnet5-claude-sonnet-5-api",
+  "model": "claude-sonnet-5",
+  "display": "Claude Sonnet 5",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 1.6,
+    "cached_input": 0.16,
+    "cache_write_5m": 2
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
