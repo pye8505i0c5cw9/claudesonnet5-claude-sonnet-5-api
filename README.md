@@ -2,7 +2,7 @@
 
 > **input $1.6; cached_input $0.16; cache_write_5m $2** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-d8ab70)** · **[Get an API key](https://go.apimart.ai/k-9f1e97)**
 
 Everything here refers to **claude-sonnet-5** — also written **claudesonnet5** or **claude sonnet 5**.
 
